@@ -34,7 +34,7 @@ An intent represents an action that the user wants to perform. You create a bot 
 + 	Enter Bot name
 + 	Select Output voice
 + 	Enter Session timeout. For this demo I am choosing 2 minutes
-+ 	Select No for COPPA from this demo prospective.
++ 	Select No for COPPA from this demo prospective
 + 	Click Create
 ![image](https://user-images.githubusercontent.com/29644699/78953692-bf8c6e00-7aa7-11ea-948c-ca24be7a3b38.png)
 3.	On next Page 
