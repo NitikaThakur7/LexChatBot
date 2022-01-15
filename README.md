@@ -7,7 +7,7 @@ Amazon Lex is a service for building conversational interfaces into any applicat
 
 ## Objective
 These are step by step instructions to build a chatbot using AWS LEX. We will cover some basics and implement a real-world scenario by using AWS Lambda to search through csv file hosted on AWS S3:
-1.	Welcome greeting message with prompt to add name
+1.	Welcome greeting message with prompt to add name.
 2.	Fulfil AWS LEX response using AWS Lambda to search through file and return output.
 
 ## Setup:
